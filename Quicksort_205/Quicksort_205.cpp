@@ -27,7 +27,7 @@ void input() {
 		cout << "<" << (i + 1) << ">";
 		cin >> arr[i];
 	}
-}
+} 
 //swap the element at index x with the element at index y
 void swap(int x, int y)
 {
