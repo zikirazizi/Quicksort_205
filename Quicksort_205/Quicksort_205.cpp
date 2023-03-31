@@ -17,7 +17,7 @@ void input() {
 			break;
 		else
 			cout << "\nMasukkan panjang array adalah 0" << endl;
-	}
+	} 
 
 	cout << "\n-------------------" << endl;
 	cout << "\nEnter Array Element" << endl;
